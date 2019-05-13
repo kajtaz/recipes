@@ -1,3 +1,3 @@
  
 
-recipe board project to practise ruby on rails environment and gems
+recipe board project to practice ruby on rails environment and gems
